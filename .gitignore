@@ -1,0 +1,38 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session data
+.RData
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+  
+  # Output files
+  *.html
+*.pdf
+*.docx
+*.log
+*.txt
+
+# Data files (optional — uncomment if needed)
+# data/
+# *.csv
+# *.rds
+
+# Package/build files
+*.tar.gz
+
+# Renviron / secrets
+.Renviron
+
+# renv
+renv/library/
+  renv/python/
+  renv/staging/
+  renv/cache/
+  
+  # OS files
+  .DS_Store
+Thumbs.db
